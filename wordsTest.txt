@@ -1,0 +1,7 @@
+rat
+dog
+cat
+ran
+sat 
+moon
+soon
